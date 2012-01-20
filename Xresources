@@ -1,0 +1,9 @@
+*XTerm*vt100*altSendsEscape: True
+*XTerm*vt100*metaSendsEscape: True
+*XTerm*vt100*reverseVideo: True
+*UXTerm*vt100*altSendsEscape: True
+*UXTerm*vt100*metaSendsEscape: True
+*UXTerm*vt100*reverseVideo: True
+
+emacs.font:             6x13
+
